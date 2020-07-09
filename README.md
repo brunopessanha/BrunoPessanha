@@ -1,6 +1,6 @@
 # Hello, Hallo, Oi, Hola - This is me, Bruno (He/Him)! 👨🏾‍💻
 
-I am Software Engineer/Developer/Curious who is passionate about IoT projects. I am from Brazil where I have lived 3/4 of my life and the during the last 1/4 I have lived in the United Kindgom (2.5 years), travelled through 7 countries in South America during 18 months and since 2017 I am living in Germany!
+I am Software Engineer/Developer/Curious who is passionate about IoT projects. I am from Brazil, where I have lived 3/4 of my life. During the last 1/4 I have lived in the United Kindgom (2.5 years), travelled through 7 countries in South America (1.5 year) and since 2017 I am living in Germany!
  
 I am currently working as a Backend Engineer. I am developing exciting things in Kotlin and Spring. I have also plently of expierience with C# and the .NET framework. When I find time for personal projects I enjoy developing firmwares in C/C++. 
 
