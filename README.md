@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, Hallo, Oi, Holá - This is me, Bruno! 👨🏾‍💻
 
 <!--
 **brunopessanha/brunopessanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
